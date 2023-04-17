@@ -1,0 +1,56 @@
+body{
+    background-size: cover;
+    background-image: url(background.jpg);
+}
+
+.container{
+    margin:auto;
+    width: 700px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 80px 90px 90px 90px;
+    border-radius: 15px;
+}
+
+header{
+    text-align: center;
+    color: lime;
+}
+
+#logo{
+    width: 200px;
+}
+
+nav{
+    text-align: center;
+    background-color: lime;
+    padding: 8px;
+}
+
+main{
+    color: white;
+    font-size: 15px;
+}
+
+.nome_monopattino{
+    font-size: 20px;
+}
+
+.barraspazio{
+    padding: 12px;
+    border-radius: 5px;
+}
+
+#barraspazio1{
+    width: 33%;
+    background-color: rgb(225, 175, 83);
+}
+
+#barraspazio2{
+    width: 57%;
+    background-color: rgb(42, 181, 42);
+}
+
+#barraspazio3{
+    width: 13%;
+    background-color: rgba(224, 70, 70, 0.712);
+}
